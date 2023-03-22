@@ -1,0 +1,9 @@
+## Interface: 100007
+## Title: AdiBags - Primordial Stones
+## Notes: Adds a Primordial Stones section to AdiBags.
+## Author: ZelionGG
+## Version: 1.0
+## Dependencies: AdiBags
+
+Database.lua
+AdiBags_PrimordialStones.lua
